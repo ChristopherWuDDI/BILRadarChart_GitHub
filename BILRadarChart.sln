@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BILRadarChart", "BILRadarChart\BILRadarChart.csproj", "{969FE603-4E0F-42AF-896E-B860C3818BA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{B8042722-325C-45F8-AD59-83BF41B5AA9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{73458007-094E-48D7-AC39-BADB4A70BCB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{F54777C7-B9C4-4484-8509-6ED9BE2D0EC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{EC3776D7-F1EE-4786-AF54-76BFF4516910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadarChart.Application.Services", "RadarChart.Application.Services\RadarChart.Application.Services.csproj", "{10F9285C-8302-40B8-B475-5661DE014EBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadarChart.Core.Model", "RadarChart.Core.Model\RadarChart.Core.Model.csproj", "{19F91D16-B19A-441B-BB3A-CE18B442AB2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadarChart.Core.Repository", "RadarChart.Core.Repository\RadarChart.Core.Repository.csproj", "{6E2CB150-B5E2-41E4-BC79-F747051E5D8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadarChart.Infrastructure.Persistence.EF", "RadarChart.Infrastructure.Persistence.EF\RadarChart.Infrastructure.Persistence.EF.csproj", "{8CA9A389-F11A-4950-A744-857D52DA0DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadarChart.Application.WebAPI", "RadarChart.Application.WebAPI\RadarChart.Application.WebAPI.csproj", "{42476284-0337-42E0-BFBF-925D9762775F}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bilradarchart.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BILRadarChart\\BILRadarChart.csproj
+		SccProjectTopLevelParentUniqueName1 = BILRadarChart.sln
+		SccProjectName1 = BILRadarChart
+		SccLocalPath1 = BILRadarChart
+		SccProjectUniqueName2 = RadarChart.Application.Services\\RadarChart.Application.Services.csproj
+		SccProjectTopLevelParentUniqueName2 = BILRadarChart.sln
+		SccProjectName2 = RadarChart.Application.Services
+		SccLocalPath2 = RadarChart.Application.Services
+		SccProjectUniqueName3 = RadarChart.Core.Model\\RadarChart.Core.Model.csproj
+		SccProjectTopLevelParentUniqueName3 = BILRadarChart.sln
+		SccProjectName3 = RadarChart.Core.Model
+		SccLocalPath3 = RadarChart.Core.Model
+		SccProjectUniqueName4 = RadarChart.Core.Repository\\RadarChart.Core.Repository.csproj
+		SccProjectTopLevelParentUniqueName4 = BILRadarChart.sln
+		SccProjectName4 = RadarChart.Core.Repository
+		SccLocalPath4 = RadarChart.Core.Repository
+		SccProjectUniqueName5 = RadarChart.Infrastructure.Persistence.EF\\RadarChart.Infrastructure.Persistence.EF.csproj
+		SccProjectTopLevelParentUniqueName5 = BILRadarChart.sln
+		SccProjectName5 = RadarChart.Infrastructure.Persistence.EF
+		SccLocalPath5 = RadarChart.Infrastructure.Persistence.EF
+		SccProjectUniqueName6 = RadarChart.Application.WebAPI\\RadarChart.Application.WebAPI.csproj
+		SccProjectTopLevelParentUniqueName6 = BILRadarChart.sln
+		SccProjectName6 = RadarChart.Application.WebAPI
+		SccLocalPath6 = RadarChart.Application.WebAPI
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{969FE603-4E0F-42AF-896E-B860C3818BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969FE603-4E0F-42AF-896E-B860C3818BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969FE603-4E0F-42AF-896E-B860C3818BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969FE603-4E0F-42AF-896E-B860C3818BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F9285C-8302-40B8-B475-5661DE014EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F9285C-8302-40B8-B475-5661DE014EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F9285C-8302-40B8-B475-5661DE014EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F9285C-8302-40B8-B475-5661DE014EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F91D16-B19A-441B-BB3A-CE18B442AB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F91D16-B19A-441B-BB3A-CE18B442AB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F91D16-B19A-441B-BB3A-CE18B442AB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F91D16-B19A-441B-BB3A-CE18B442AB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2CB150-B5E2-41E4-BC79-F747051E5D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2CB150-B5E2-41E4-BC79-F747051E5D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2CB150-B5E2-41E4-BC79-F747051E5D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2CB150-B5E2-41E4-BC79-F747051E5D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA9A389-F11A-4950-A744-857D52DA0DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA9A389-F11A-4950-A744-857D52DA0DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA9A389-F11A-4950-A744-857D52DA0DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA9A389-F11A-4950-A744-857D52DA0DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42476284-0337-42E0-BFBF-925D9762775F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42476284-0337-42E0-BFBF-925D9762775F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42476284-0337-42E0-BFBF-925D9762775F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42476284-0337-42E0-BFBF-925D9762775F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{969FE603-4E0F-42AF-896E-B860C3818BA4} = {B8042722-325C-45F8-AD59-83BF41B5AA9B}
+		{10F9285C-8302-40B8-B475-5661DE014EBC} = {73458007-094E-48D7-AC39-BADB4A70BCB8}
+		{42476284-0337-42E0-BFBF-925D9762775F} = {73458007-094E-48D7-AC39-BADB4A70BCB8}
+		{19F91D16-B19A-441B-BB3A-CE18B442AB2F} = {F54777C7-B9C4-4484-8509-6ED9BE2D0EC1}
+		{6E2CB150-B5E2-41E4-BC79-F747051E5D8B} = {F54777C7-B9C4-4484-8509-6ED9BE2D0EC1}
+		{8CA9A389-F11A-4950-A744-857D52DA0DAD} = {EC3776D7-F1EE-4786-AF54-76BFF4516910}
+	EndGlobalSection
+EndGlobal

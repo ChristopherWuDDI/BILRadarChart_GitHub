@@ -1,0 +1,5 @@
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\BILRadarChart\bin\BILRadarChart.dll
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\BILRadarChart\bin\BILRadarChart.pdb
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\BILRadarChart\obj\Debug\BILRadarChart.dll
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\BILRadarChart\obj\Debug\BILRadarChart.pdb
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\BILRadarChart\obj\Debug\BILRadarChart.csprojResolveAssemblyReference.cache
