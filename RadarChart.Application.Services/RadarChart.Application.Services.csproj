@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Impl\RoleService.cs" />
+    <Compile Include="Impl\testGit.cs" />
     <Compile Include="IRoleService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
