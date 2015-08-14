@@ -1,0 +1,12 @@
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Infrastructure.Persistence.EF\bin\Debug\RadarChart.Infrastructure.Persistence.EF.dll.config
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Infrastructure.Persistence.EF\bin\Debug\RadarChart.Infrastructure.Persistence.EF.dll
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Infrastructure.Persistence.EF\bin\Debug\RadarChart.Infrastructure.Persistence.EF.pdb
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Infrastructure.Persistence.EF\bin\Debug\EntityFramework.dll
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Infrastructure.Persistence.EF\bin\Debug\EntityFramework.SqlServer.dll
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Infrastructure.Persistence.EF\bin\Debug\RadarChart.Core.Model.dll
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Infrastructure.Persistence.EF\bin\Debug\RadarChart.Core.Model.pdb
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Infrastructure.Persistence.EF\bin\Debug\EntityFramework.xml
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Infrastructure.Persistence.EF\bin\Debug\EntityFramework.SqlServer.xml
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Infrastructure.Persistence.EF\obj\Debug\RadarChart.Infrastructure.Persistence.EF.csprojResolveAssemblyReference.cache
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Infrastructure.Persistence.EF\obj\Debug\RadarChart.Infrastructure.Persistence.EF.dll
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Infrastructure.Persistence.EF\obj\Debug\RadarChart.Infrastructure.Persistence.EF.pdb

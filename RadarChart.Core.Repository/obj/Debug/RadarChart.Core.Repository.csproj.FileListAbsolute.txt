@@ -1,0 +1,15 @@
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\bin\Debug\RadarChart.Core.Repository.dll.config
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\bin\Debug\RadarChart.Core.Repository.dll
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\bin\Debug\RadarChart.Core.Repository.pdb
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\bin\Debug\EntityFramework.dll
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\bin\Debug\EntityFramework.SqlServer.dll
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\bin\Debug\RadarChart.Core.Model.dll
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\bin\Debug\RadarChart.Infrastructure.Persistence.EF.dll
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\bin\Debug\System.Linq.Dynamic.dll
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\bin\Debug\RadarChart.Core.Model.pdb
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\bin\Debug\RadarChart.Infrastructure.Persistence.EF.pdb
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\bin\Debug\EntityFramework.xml
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\bin\Debug\EntityFramework.SqlServer.xml
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\obj\Debug\RadarChart.Core.Repository.csprojResolveAssemblyReference.cache
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\obj\Debug\RadarChart.Core.Repository.dll
+G:\HMIT\BILRadarChart\SolutionByChristopher\BILRadarChart\RadarChart.Core.Repository\obj\Debug\RadarChart.Core.Repository.pdb
